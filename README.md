@@ -1,7 +1,7 @@
 # Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px" alt="waving hand" />, I'm Muhammad Babar  
   
 
-* 👨‍💻 Frontend Engineer | React.js, Next.js & TypeScript — with full-stack MERN experience
+* 👨‍💻 Software Engineer | React.js, Next.js & TypeScript — with full-stack MERN experience
 * 🚀 Currently building **[Chatly](https://chatlyai.app/)** and **[Imagine Computer](https://www.imagine.art/computer)** at Vyro.ai — AI SaaS used by millions
 * 🏗️ Specialized in AI SaaS development — subscription & billing systems, Strapi CMS-driven architectures, i18n, and SEO
 * 🛠️ Experienced with Stripe, Auth0, Firebase, GraphQL, Turborepo, monday.com & GoHighLevel marketplace apps
